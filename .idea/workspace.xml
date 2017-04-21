@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9da1b206-bee8-411c-8a8a-bd0331128960" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_accordions.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_blog.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_breadcrumbs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_countdown-counter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_cta.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_dropdown.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_flex-slider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_footers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_form-elements.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_fullscreen-nav.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_half-images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_headings.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_icon-img-boxes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_img-hover.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_intro-sections.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_master-slider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_modal-popups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_navbar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_owl-carousel.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_paginations.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_pricing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_progress-bars.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_revolution.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_sidebar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_social-icons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_tabs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_team.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_timeline.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_top-bars.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/_video-bg.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/app-landing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/fitness.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/landing-page.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/one_page.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/restaurant.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/shop.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/6c22662227616dc78952078af9ea8ca48f0c02aa/style.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_accordions.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_blog.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_breadcrumbs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_countdown-counter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_cta.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_dropdown.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_flex-slider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_footers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_form-elements.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_fullscreen-nav.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_half-images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_headings.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_icon-img-boxes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_img-hover.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_intro-sections.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_master-slider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_modal-popups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_navbar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_owl-carousel.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_paginations.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_pricing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_progress-bars.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_revolution.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_sidebar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_social-icons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_tabs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_team.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_timeline.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_top-bars.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/_video-bg.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/app-landing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/fitness.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/landing-page.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/one_page.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/restaurant.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/shop.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/.sass-cache/881c6557b7d95ee441d5b63520356176075c71e1/style.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/fonts/flexslider-icon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/fonts/flexslider-icon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/fonts/flexslider-icon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/images/bg_play_pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/dist/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/dist/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/dist/images/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/dist/images/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/cubeportfolio/img/cbp-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/et-line-icons/fonts/et-line.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/et-line-icons/fonts/et-line.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/et-line-icons/fonts/et-line.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/AHGBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/backgrounds/bg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/backgrounds/bg4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/backgrounds/bg5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/backgrounds/bg6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/database/securimage.sq3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/images/audio_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/images/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/securimage_play.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/app-screens/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/app-screens/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/app-screens/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/app-screens/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/app-screens/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/app-screens/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/app-screens/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/app-screens/slide-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/app-screens/slide-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/app-screens/slide-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/app-store.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-17.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-image-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-image-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg-image-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/bg_image_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/blurflake1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/blurflake2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/blurflake3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/blurflake4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/img-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/img-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/img-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/img-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/img-13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/img-14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/img-15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/img-16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/img-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/img-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/img-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/img-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/img-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/img-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/img-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/img-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/mas-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/mas-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/mas-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/mas-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/box/mas-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/client-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/client-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/client-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/credit-cards/american-express.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/credit-cards/discover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/credit-cards/maestro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/credit-cards/mastercard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/credit-cards/paypal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/credit-cards/visa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/business.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/business2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/classic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/fitness.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/hero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/landing-agency.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/landing-app.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/one-fullmenu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/one-parallax.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/one-rotate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/one-slider.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/one-video.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/photography.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/portfolio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/resto.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/shop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/startup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/demo-img/youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/fitness-sm-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/fitness-sm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/girl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/grey@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/ipad-phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/iphone-holder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/lang/de.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/lang/fr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/lang/ru.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/lang/us.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/loader-2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/loader-3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/logo-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/logo-light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/mobi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/nav-trigger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/paypal.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/play-store.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/responsive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/resto/bg-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/resto/bg-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/resto/bg-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/resto/bg-16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/resto/bg-17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/resto/bg-18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/resto/cutlery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/resto/img-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/resto/img-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/resto/img-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/resto/img-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/resto/img-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/resto/img-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/resto/img-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/shop/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/shop/10.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/shop/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/shop/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/shop/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/shop/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/shop/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/shop/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/shop/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/shop/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/shop/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/shop/9.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/shop/avtar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/shop/payment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/shop/s-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/shop/s-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/shop/s-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/show-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/show-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/show-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/show-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/team-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/team-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/team-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/team-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/team-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/team-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/team-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/team-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/video-fallback.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/videos/fit_edit.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/videos/fitness.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/videos/office_cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/videos/officeloop_low.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/videos/space.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/videos/space_cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/sicons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/black-1/black-skin-1-retina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/black-1/black-skin-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/black-2/black-skin-2-retina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/black-2/black-skin-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/contrast/contrast-skin-retina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/contrast/contrast-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/default/light-skin-1-retina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/default/light-skin-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/light-2/light-skin-2-retina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/light-2/light-skin-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/light-3/light-skin-3-retina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/light-3/light-skin-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/light-4/light-skin-4-retina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/light-4/light-skin-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/light-5/light-skin-5-retina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/light-5/light-skin-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/light-6/light-skin-6-retina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/light-6/light-skin-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/metro/metro-skin-retina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/metro/metro-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/style/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/style/grab.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/style/grab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/style/grabbing.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/style/grabbing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/style/loading-1-dark.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/style/loading-1-light.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/style/loading-1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/style/loading-2-dark.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/style/loading-2-light.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/style/loading-2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/style/pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/style/video-close-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/owl-carousel/AjaxLoader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/owl-carousel/grabbing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/assets/coloredbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/assets/gridtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/assets/gridtile_3x3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/assets/gridtile_3x3_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/assets/gridtile_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/assets/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/assets/sources/fb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/assets/sources/fr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/assets/sources/ig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/assets/sources/post.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/assets/sources/revolution_slide1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/assets/sources/revolution_slide2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/assets/sources/tw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/assets/sources/vm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/assets/sources/wc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/assets/sources/yt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/closedhand.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/openhand.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/font-awesome/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/font-awesome/fonts/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/font-awesome/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/pe-icon-7-stroke/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/pe-icon-7-stroke/fonts/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/pe-icon-7-stroke/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/revicons/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/revicons/revicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/revicons/revicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/revicons/revicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/source/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/source/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/grunt/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/grunt/bs-commonjs-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/grunt/bs-lessdoc-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/grunt/bs-raw-files-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/grunt/configBridge.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/grunt/sauce_browsers.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/js/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/js/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/js/affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/js/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/js/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/js/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/js/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/js/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/js/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/js/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/js/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/js/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/js/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/js/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/.csscomb.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/.csslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/glyphicons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/input-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/jumbotron.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/background-variant.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/border-radius.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/center-block.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/clearfix.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/gradients.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/grid-framework.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/hide-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/image.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/nav-divider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/nav-vertical-align.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/opacity.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/progress-bar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/reset-filter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/reset-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/resize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/responsive-visibility.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/size.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/tab-focus.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/table-row.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/text-emphasis.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/text-overflow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/mixins/vendor-prefixes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/normalize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/responsive-embed.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/less/wells.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/nuget/MyGet.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/nuget/bootstrap.less.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/nuget/bootstrap.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/bootstrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/README.mdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/css/base.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/css/font.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/css/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/css/resets.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/css/responsive.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/css/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/css/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/flexslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/flexslider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/fonts/flexslider-icon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/jquery.flexslider-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/jquery.flexslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/flexslider/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/css/font-awesome.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/hover/css/hover-min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/hover/css/hover.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/jquery/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/jquery/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/jquery/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/jquery/dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/jquery/dist/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/dist/css/lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/dist/css/lightbox.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/dist/js/lightbox-plus-jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/dist/js/lightbox-plus-jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/dist/js/lightbox-plus-jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/dist/js/lightbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/dist/js/lightbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/dist/js/lightbox.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/lightbox2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/masonry/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/masonry/README.mdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/masonry/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/masonry/changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/masonry/dist/masonry.pkgd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/masonry/dist/masonry.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/masonry/masonry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/lib/jquery.waypoints.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/lib/jquery.waypoints.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/lib/noframework.waypoints.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/lib/noframework.waypoints.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/lib/shortcuts/infinite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/lib/shortcuts/infinite.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/lib/shortcuts/inview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/lib/shortcuts/inview.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/lib/shortcuts/sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/lib/shortcuts/sticky.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/lib/waypoints.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/lib/zepto.waypoints.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/lib/zepto.waypoints.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/waypoints/licenses.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/LICENSE-MIT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/css/libs/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/css/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/dist/wow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/dist/wow.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/spec/coffeescripts/helpers/SpecHelper.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/spec/coffeescripts/wow-spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/spec/javascripts/fixtures/custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/spec/javascripts/fixtures/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/spec/javascripts/helpers/SpecHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/spec/javascripts/libs/jasmine-jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/spec/javascripts/libs/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/spec/javascripts/wow-spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/bower_components/wow/src/wow.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/contact_form_2/contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/contact_form_2/process-contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/css/app-landing.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/css/app-landing.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/css/fitness.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/css/fitness.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/css/landing-page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/css/landing-page.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/css/one_page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/css/one_page.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/css/restaurant.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/css/restaurant.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/css/shop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/css/shop.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/css/style.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/cubeportfolio/css/cubeportfolio.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/cubeportfolio/css/cubeportfolio.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/cubeportfolio/js/jquery.cubeportfolio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/cubeportfolio/js/jquery.cubeportfolio.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/et-line-icons/et-line.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/et-line-icons/fonts/et-line.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/sendmail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/php_mailer/PHPMailerAutoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/php_mailer/class.phpmailer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/php_mailer/class.pop3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/php_mailer/class.smtp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/README.FONT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/WavFile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/captcha.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/database/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/database/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/example_form.ajax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/example_form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/securimage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/securimage_play.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/securimage_show.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/form/library/vender/securimage/words/words.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/images/resto/signature.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/app-custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/bootstrap-hover-dropdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/checkout-validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/classie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/contact-form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/form-validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/fullscreen-nav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/google-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/headroom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/icheck.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/jquery-migrate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/jquery.BlackAndWhite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/jquery.appear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/jquery.countdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/jquery.counterup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/jquery.easing.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/jquery.flip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/jquery.hoverdir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/jquery.stellar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/jquery.sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/landingpage-custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/mailchimp-custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/modernizr.custom.97074.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/one-page-custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/parallax.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/plugin/equalize/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/plugin/equalize/equalize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/plugin/equalize/mediaquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/plugin/video-background/background.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/plugin/video-background/background.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/plugin/video-background/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/plugin/video-background/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/plugin/ytplayer/jquery.mb.YTPlayer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/plugin/ytplayer/jquery.mb.YTPlayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/restaurant_custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/theia-sticky-sidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/tweetie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/versa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/js/vimeo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/live-icon/json2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/live-icon/livicons-1.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/live-icon/raphael-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/mailchimp/MCAPI.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/mailchimp/config.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/mailchimp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/mailchimp/process-subscribe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/jquery.easing.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/masterslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/masterslider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/masterslider.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/black-1/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/black-2/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/contrast/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/default/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/light-2/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/light-3/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/light-4/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/light-5/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/light-6/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/skins/metro/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/masterslider/style/masterslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/owl-carousel/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/owl-carousel/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/owl-carousel/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/owl-carousel/owl.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/owl-carousel/owl.transitions.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/layers.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/navigation-skins/ares.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/navigation-skins/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/navigation-skins/dione.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/navigation-skins/erinyen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/navigation-skins/gyges.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/navigation-skins/hades.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/navigation-skins/hebe.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/navigation-skins/hephaistos.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/navigation-skins/hermes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/navigation-skins/hesperiden.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/navigation-skins/metis.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/navigation-skins/persephone.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/navigation-skins/uranus.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/navigation-skins/zeus.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/navigation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/css/settings.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/pe-icon-7-stroke/css/helper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/fonts/revicons/revicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/revolution.extension.actions.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/revolution.extension.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/revolution.extension.kenburn.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/revolution.extension.layeranimation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/revolution.extension.migration.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/revolution.extension.navigation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/revolution.extension.parallax.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/revolution.extension.slideanims.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/revolution.extension.video.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/source/revolution.extension.actions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/source/revolution.extension.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/source/revolution.extension.kenburn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/source/revolution.extension.layeranimation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/source/revolution.extension.migration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/source/revolution.extension.navigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/source/revolution.extension.parallax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/source/revolution.extension.slideanims.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/extensions/source/revolution.extension.video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/jquery.themepunch.enablelog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/jquery.themepunch.revolution.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/jquery.themepunch.tools.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/source/jquery.themepunch.enablelog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/source/jquery.themepunch.revolution.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/js/source/jquery.themepunch.tools.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/php/facebook/class-facebook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/php/flickr/class-flickr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/php/instagram/class-instagram.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/php/twitter/RestApi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/php/twitter/class-twitter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/php/twitter/connection/Application.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/php/twitter/connection/ConnectionAbstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/php/twitter/connection/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/php/vimeo/class-vimeo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/revolution/php/youtube/class-youtube.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_accordions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_base.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_blog.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_breadcrumbs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_countdown-counter.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_cta.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_dropdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_flex-slider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_footers.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_form-elements.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_fullscreen-nav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_half-images.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_headings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_icon-img-boxes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_img-hover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_intro-sections.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_master-slider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_modal-popups.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_owl-carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_paginations.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_pricing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_progress-bars.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_revolution.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_sidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_social-icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_tabs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_team.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_timeline.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_top-bars.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/_video-bg.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/app-landing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/fitness.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/landing-page.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/one_page.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/restaurant.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/shop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/scss/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/twit-api/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/twit-api/tweet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/twit-api/twitteroauth/OAuth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/artahome/twit-api/twitteroauth/twitteroauth.php" />
+    </list>
+    <ignored path="ARTA.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ARTA" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Website/artahome/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7310">
+              <caret line="559" column="40" selection-start-line="559" selection-start-column="40" selection-end-line="559" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog-masonry-grid.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Website/versa-v1.02/html/blog-masonry-grid.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Website/artahome/images/index.html" />
+        <option value="$PROJECT_DIR$/Website/artahome/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1294" />
+    <option name="height" value="1407" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ARTA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ARTA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ARTA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CCS" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\ARTA\Website\artahome" />
+      <recent name="C:\Projects\ARTA\Website\artahome\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\ARTA\Website\artahome" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="meteor-app-runner" factoryName="Meteor">
+      <option name="startBrowserSettings">
+        <browser url="http://localhost:3000" />
+      </option>
+      <meteor-runner-state>
+        <startBrowserSettings>
+          <browser url="http://localhost:3000" />
+        </startBrowserSettings>
+      </meteor-runner-state>
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9da1b206-bee8-411c-8a8a-bd0331128960" name="Default" comment="" />
+      <created>1468069693798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1468069693798</updated>
+      <workItem from="1468069695196" duration="10817000" />
+      <workItem from="1476633344610" duration="702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11519000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1294" height="1407" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13380282" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3006939" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Website/versa-v1.02/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Website/artahome/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7310">
+          <caret line="559" column="40" selection-start-line="559" selection-start-column="40" selection-end-line="559" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Website/versa-v1.02/html/blog-masonry-grid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
